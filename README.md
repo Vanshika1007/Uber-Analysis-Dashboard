@@ -1,8 +1,8 @@
-📊 Uber Trip Analysis Dashboard
+### 📊 Uber Trip Analysis Dashboard
 
 This project provides a detailed analysis of Uber trips using interactive dashboards. The dashboards are built to help understand booking patterns, payment trends, location insights, and time-based analysis.
 
-🔹 Dashboards Overview
+## 🔹 Dashboards Overview
 1. Overview Analysis Dashboard
 
 Key Metrics:
@@ -87,7 +87,7 @@ Total Pickup Hours
 
 This sheet acts as the raw data explorer to drill down into each trip’s details.
 
-🔹 Tech Stack
+## 🔹 Tech Stack
 
 Tool Used: Power BI / Tableau (adjust as per your project)
 
@@ -101,7 +101,7 @@ Drill-down Analysis (Overview → Time → Details)
 
 Data Visualizations (Bar Charts, Donut Charts, Heatmaps, Line Charts, Tables)
 
-🔹 Key Learnings
+## 🔹 Key Learnings
 
 Analyzed customer booking behavior based on time, distance, and location.
 
@@ -111,7 +111,7 @@ Discovered peak demand hours and popular pickup-drop locations.
 
 Built a data-driven decision support system for improving Uber’s services.
 
-📌 How to Use
+## 📌 How to Use
 
 Open the dashboard in Power BI/Tableau.
 
@@ -123,13 +123,20 @@ Overview Analysis → Business Summary
 
 Time Analysis → Time-based Trends
 
-# Uber Trip Analysis Dashboard  
+# 📊 Uber Trip Analysis Dashboard
 
-## Overview Analysis  
-![Overview Dashboard](images/overview.PNG)  
+This project provides analysis of Uber trips using interactive dashboards.  
 
-## Time Analysis  
-![Time Dashboard](images/timeAnalysis.PNG)  
+---
 
-## Details  
-![Details Dashboard](images/details.PNG)  
+## 📌 Dashboards
+
+### 1. Overview Analysis
+![Overview Dashboard](Images/Overview.PNG)
+
+### 2. Time Analysis
+![Time Dashboard](Images/Time%20Analysis.PNG)
+
+### 3. Details
+![Details Dashboard](Images/Details.PNG)
+
