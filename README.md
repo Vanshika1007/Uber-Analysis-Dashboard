@@ -1,4 +1,4 @@
-### 📊 Uber Trip Analysis Dashboard
+# 📊 Uber Trip Analysis Dashboard
 
 This project provides a detailed analysis of Uber trips using interactive dashboards. The dashboards are built to help understand booking patterns, payment trends, location insights, and time-based analysis.
 
