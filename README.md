@@ -126,13 +126,10 @@ Time Analysis → Time-based Trends
 # Uber Trip Analysis Dashboard  
 
 ## Overview Analysis  
-![Overview Dashboard](images/overview.png)  
+![Overview Dashboard](images/overview.PNG)  
 
 ## Time Analysis  
-![Time Dashboard](images/time.png)  
+![Time Dashboard](images/timeAnalysis.PNG)  
 
 ## Details  
-![Details Dashboard](images/details.png)  
-
-
-Details → Trip-level Data
+![Details Dashboard](images/details.PNG)  
